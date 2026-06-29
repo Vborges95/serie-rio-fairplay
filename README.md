@@ -43,12 +43,12 @@ O painel abre no navegador (geralmente em `http://localhost:8501`). Escolha um c
 
 | Liga | Régua | O que mede |
 |---|---|---|
-| 🇧🇷 **Brasil** | SSF / ANRESF | Equilíbrio da operação, custo com elenco e endividamento de curto prazo (limites apertam até 2029). |
-| EN **Inglaterra** | PSR | Perda acumulada em três anos (teto de £105M; só £15M "do próprio dinheiro"). |
-| 🇪🇸 **Espanha** | LCPD | Teto de gasto com elenco = receita − dívida. |
-| 🇮🇹 **Itália** | FIGC | Três indicadores: liquidez, endividamento e custo do trabalho ampliado. |
-| 🇩🇪 **Alemanha** | DFL | Licenciamento por liquidez e patrimônio. |
-| 🇫🇷 **França** | DNCG | Resultado da operação corrente sem transferências (*hors mutation*). |
+| **Brasil** | SSF / ANRESF | Equilíbrio da operação, custo com elenco e endividamento de curto prazo (limites apertam até 2029). |
+| **Inglaterra** | PSR | Perda acumulada em três anos (teto de £105M; só £15M "do próprio dinheiro"). |
+| **Espanha** | LCPD | Teto de gasto com elenco = receita − dívida. |
+| **Itália** | FIGC | Três indicadores: liquidez, endividamento e custo do trabalho ampliado. |
+| **Alemanha** | DFL | Licenciamento por liquidez e patrimônio. |
+| **França** | DNCG | Resultado da operação corrente sem transferências (*hors mutation*). |
 
 ---
 
